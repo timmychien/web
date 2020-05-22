@@ -1,0 +1,17 @@
+.home-img img{
+    max-width: 100%;
+    height: auto;
+}
+.contact-info img{
+    display:block;
+    float:left;
+    width: 50%;
+    height:auto;
+    opacity: 0.7;
+}
+.contact-info .intro{
+    width:45%;
+    height:auto;
+    float:right;
+    display:block;
+}

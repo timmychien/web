@@ -1,0 +1,19 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+.self_intro{
+  text-align: unset;
+  font-family: Helvetica;
+  font-size: medium;
+}
+
+.intro_title{
+  font-size:larger;
+  font-style: italic;
+  font-display: block;
+}
+.intro_content{
+  text-indent:10px;
+  font-weight: 500;
+}

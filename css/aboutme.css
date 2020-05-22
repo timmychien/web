@@ -1,0 +1,22 @@
+.home-img img{
+    max-width: 100%;
+    height: auto;
+}
+.self_intro img{
+    display:block;
+    float:center;
+    width: 30%;
+    height:auto;
+    opacity: 0.7;
+}
+.self_intro .intro_title{
+  font-size:larger;
+  font-style: italic;
+  font-display: block;
+  font-size:30px;
+}
+.self_intro .intro_content{
+  text-indent:10px;
+  font-weight: 500;
+  font-size:20px;
+}
