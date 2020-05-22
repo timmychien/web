@@ -1,2 +1,2 @@
 # Website_Simple
-https://timmychien.io/Website_Simple
+https://timmychien.github.io/Website_Simple
